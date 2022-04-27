@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "roll.api.appId",
+      "type": "java.lang.String",
+      "description": "roll Api 的appId."
+    },
+    {
+      "name": "roll.api.app_secret",
+      "type": "java.lang.String",
+      "description": "roll Api 的 secret."
+    }
+  ] }
